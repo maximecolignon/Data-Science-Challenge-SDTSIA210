@@ -1,10 +1,19 @@
-# Data Science Challenge SDTSIA210
+# Data Science Challenge SDTSIA210 : Large scale face verification
 
 From March to April 2020 I teamed up with Yoach Lacombe to compete in the Data Science challenge of the Machine Learning course at Télécom Paris in which we ranked 1st out of 126 participants. This repository contains our solution notebook solution. 
 
-The challenge was organized and designed by designed Pavlo Mozharovskyi, Attilio Fiandrotti, Matthieu Labeau researchers at Télécom Paris. Here is the link to the original starting kit : https://nbviewer.jupyter.org/urls/perso.telecom-paristech.fr/mozharovskyi/resources/challenge_SDTSIA_2020_start.ipynb
+## Credits
 
-## Fusion of algorithms for face recognition
+This challenge was designed by 
+
+- Pavlo Mozharovskyi (pavlo.mozharovskyi@telecom-paris.fr)
+- Umut Şimşekli (umut.simsekli@telecom-paris.fr)
+- Attilio Fiandrotti (attilio.fiandrotti@telecom-paris.fr)
+- Matthieu Labeau (matthieu.labeau@telecom-paris.fr)
+
+Link to the original challenge introduction and starting kit : https://nbviewer.jupyter.org/urls/perso.telecom-paristech.fr/mozharovskyi/resources/challenge_SDTSIA_2020_start.ipynb
+
+## Introduction
 
 In this challenge, the goal is to build a fusion of algorithms in order to construct the best suited solution for comparison of a pair of images. This fusion is driven by qualities computed on each image.
 
