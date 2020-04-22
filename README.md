@@ -19,6 +19,7 @@ File xtrain_challenge.csv contains one observation per row which contains follow
 - columns 1-13 - 13 qualities on first image;
 - columns 14-26 - 13 qualities on second image;
 - columns 27-37 - 11 matching scores between the two images.
+
 File ytrain_challenge.csv contains one line with each entry corresponding to one observation in xtrain_challenge.csv, maintaining the order, and has '1' if a pair of images belong to the same person and '0' otherwise.
 
 There are in total 1.068.504 training observations.
